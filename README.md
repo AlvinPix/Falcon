@@ -12,6 +12,7 @@ Falcon is a bash tool, with its intuitive interface and advanced feature set. Fa
 - Sleek, easy-to-use command-line interface streamlines the security assessment process.
 - It carries out attacks on WiFi networks using the aircrack-ng and mdk tools.
 - Carry out attacks on websites, checking for vulnerabilities with nmap scripts.
+- Mass deauthentication attacks, using aircrack-ng and mdk4 and mdk3 tools.
 
 ## Install and running
 
