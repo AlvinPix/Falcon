@@ -9,7 +9,7 @@ Falcon is a bash tool, with its intuitive interface and advanced feature set. Fa
 ## Characteristics
 
 - It automates the capture of handshakes to later crack encryption keys using brute force attacks.
-- Interfaz de línea de comandos elegante y fácil de usar que agiliza el proceso de evaluación de seguridad.
+- Sleek, easy-to-use command-line interface streamlines the security assessment process.
 - It carries out attacks on WiFi networks using the aircrack-ng and mdk tools.
 - Carry out attacks on websites, checking for vulnerabilities with nmap scripts.
 
