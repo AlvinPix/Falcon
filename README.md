@@ -52,4 +52,4 @@ chmod +x falcon.sh
 ```java
 sudo apt install httrack aircrack-ng nmap curl mdk4 mdk3 lsd kitty git
 ```
-**Some dependencies are not found in the ==Debian== distro repositories**
+**Some dependencies are not found in the __Debian__ distro repositories**
