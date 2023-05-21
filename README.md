@@ -48,10 +48,11 @@ exit
 - lsd
 - kitty / terminal
 - git
+- macchanger
 
 ## Install dependencies
 
 ```java
-sudo apt install httrack aircrack-ng nmap curl mdk4 mdk3 lsd kitty git
+sudo apt install httrack aircrack-ng nmap curl mdk4 mdk3 lsd kitty git macchanger
 ```
 **Some dependencies are not found in the __Debian__ distro repositories**
