@@ -18,11 +18,11 @@ Falcon is a bash tool, with its intuitive interface and advanced feature set. Fa
 ## Install and running
 
 ```java
-sudo su
-exit
 git clone https://github.com/AlvinPix/Falcon.git
 cd Falcon
 chmod +x falcon.sh
+sudo su
+exit
 ./falcon.sh
 ```
 
