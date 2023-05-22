@@ -53,10 +53,13 @@ exit
 - kitty / terminal
 - git
 - macchanger
+- xterm
+
+- **Falcon script needs a Wireless Adapter to work correctly, if you don't have it you can use the network socket of your laptop or pc**
 
 ## Install dependencies
 
 ```java
-sudo apt install httrack aircrack-ng nmap curl mdk4 mdk3 lsd kitty git macchanger
+sudo apt install httrack aircrack-ng nmap curl mdk4 mdk3 lsd kitty git macchanger xterm
 ```
 **Some dependencies are not found in the __Debian__ distro repositories**
